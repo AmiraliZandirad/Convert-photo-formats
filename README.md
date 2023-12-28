@@ -4,8 +4,6 @@ Convert photo formats In Python
 ## Installation 📩
 
 ```bash
-pip install pathlib
+pip install pillow
 ```
-```bash
-pip install opencv-python
-```
+
